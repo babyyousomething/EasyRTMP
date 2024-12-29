@@ -96,7 +96,7 @@ This application is licensed under the MIT License. See the `LICENSE` file for d
 ## Credits
 
 - Developed using:
-  - [NGINX RTMP Module]([https://github.com/arut/nginx-rtmp-module](https://github.com/illuspas/nginx-rtmp-win32/archive/refs/tags/v1.2.1.zip))
+  - [NGINX RTMP Module]([https://github.com/arut/nginx-rtmp-module](https://github.com/illuspas/nginx-rtmp-win32/archive/refs/tags/v1.2.1.zip)
   - [PyQt5](https://riverbankcomputing.com/software/pyqt/intro)
 
 For support or inquiries, contact: koarik622@gmail.com
